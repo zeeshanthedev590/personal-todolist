@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS todos (
+    id INTEGER PRIMARY KEY,
+    title TEXT NOT NULL
+)
